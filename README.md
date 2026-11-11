@@ -1,4 +1,4 @@
-# RAZOR Website
+﻿# RAZOR Website
 
 The official static site for the RAZOR Minecraft launcher.
 
@@ -9,8 +9,8 @@ The official static site for the RAZOR Minecraft launcher.
 - `assets/` — logo and local Minecraft world imagery
 
 ## Download links
-- Installer: `releases/download/v1.2.0/RazorLauncher-1.2.0-Setup.exe`
-- Portable: `releases/download/v1.2.0/RazorLauncher-1.2.0.exe`
+- Installer: `releases/download/v1.3.0/RazorLauncher-1.3.0-Setup.exe`
+- Portable: `releases/download/v1.3.0/RazorLauncher-1.3.0.exe`
 - All releases: `https://github.com/razor-launcher/razor-website/releases`
 
 ## Run
