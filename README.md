@@ -1,12 +1,20 @@
-# Razor Website
+# RAZOR Website
 
-Самостоятельный промо-сайт Razor Launcher. Откройте `index.html` в браузере.
+The official static site for the RAZOR Minecraft launcher.
 
-- Каталог модов, шейдеров и ресурспаков
-- Секция скинов
-- Анимированное сравнение Java Edition и Rust Edition
-- Кнопка загрузки ведёт на GitHub Releases: `RazorLauncher-1.1.1-Setup.exe`; portable-версия — `RazorLauncher-1.1.1.exe`
-- SHA-256 лежит рядом с каждым файлом в релизе и в папке `downloads`
-- Ссылки Discord и Telegram пока ведут на главные страницы сервисов
+## Structure
+- `index.html` — page structure and content
+- `css/style.css` — responsive visual design
+- `js/main.js` — mobile navigation, snowfall and FPS demo animation
+- `assets/` — logo and local Minecraft world imagery
 
-Кадр игровой сцены загружается из сети. Для офлайн-показа скачайте изображение с указанной в `index.html` страницы и замените URL на локальный файл.
+## Download links
+- Installer: `releases/download/v1.2.0/RazorLauncher-1.2.0-Setup.exe`
+- Portable: `releases/download/v1.2.0/RazorLauncher-1.2.0.exe`
+- All releases: `https://github.com/razor-launcher/razor-website/releases`
+
+## Run
+Open `index.html` in a browser, or serve the folder with any static HTTP server.
+
+## Notes
+The FPS figures are an animated visual example, not measured benchmark data. The website is an independent community project and is not affiliated with Mojang or Microsoft.
